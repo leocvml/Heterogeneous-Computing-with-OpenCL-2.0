@@ -48,3 +48,6 @@ Dana Schaa在加州州立理工大学(Cal Poly，位于神路易斯奥比斯波�
 
 - github 翻译地址：https://github.com/xiaoweiChen/Heterogeneous-Computing-with-OpenCL-2.0
 - gitbook 在线阅读：https://www.gitbook.com/book/chenxiaowei/heterogeneous-computing-with-opencl2-0
+
+## other source ##
+https://www.laojiyou.com/books/openclyigou/
